@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente procurando um estágio em ADS
 - 🌱 Estudando HTML, CSS e JAVASCRIPT.
-- 😄 Pronouns: ELE/DELA
+- 😄 Pronomes: ELE/DELA
 
 - <div> 
   <a href="https://instagram.com/o.mosha_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
