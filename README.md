@@ -1,7 +1,7 @@
 ## Olá pessoal! Tudo bem?
 
-- 🔭 Atualmente procurando um estágio em ADS
-- 🌱 Estudando HTML, CSS e JAVASCRIPT.
+- 🔭 Atualmente procurando um estágio em DS.
+- 🌱 Estudando HTML, CSS, JAVASCRIPT e PYTHON.
 - 😄 Pronomes: ELE/DELA
 
 - <div> 
