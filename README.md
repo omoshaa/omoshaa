@@ -1,27 +1,33 @@
-# Hi 👋! My name is Moisés!
+# Olá, Explorador(a) Digital! 👋 Sou Moisés.
 
-I'm a passionate student of technology and development, always eager to learn and improve my skills to build efficient solutions. Currently, I'm focusing on deepening my knowledge in backend development and cloud infrastructure.
-
----
-
-### 🚀 What I'm currently studying and working on:
-
-* **Java**: Deepening my knowledge in backend development, exploring frameworks like **Spring Boot** to build robust and scalable APIs.
-* **Docker**: Utilizing containers to standardize development and production environments, facilitating application portability and deployment.
-* **Google Cloud Platform (GCP)**: Exploring cloud computing services, databases, and CI/CD tools to effectively implement and manage applications.
+Um estudante com a mente voltada para o futuro da tecnologia e o desenvolvimento de **soluções de ponta**. Estou constantemente buscando as próximas fronteiras em engenharia de software e infraestrutura.
 
 ---
 
-### 🛠️ My Skills and Tools:
+### 🌐 Navegando no Futuro da Tech:
 
-* **Languages**: Java, JavaScript, HTML5, CSS3, Python
-* **Version Control**: Git, GitHub
-* **Containers**: Docker
-* **Cloud Providers**: Google Cloud Platform (GCP)
+Minha jornada atual foca em desbravar o universo do desenvolvimento de sistemas e a infraestrutura em nuvem, com um olhar sempre à frente:
+
+* **Java**: Desvendando os paradigmas de arquiteturas de sistemas robustos, com ênfase em **Spring Boot** para construir backends de alta performance e escalabilidade.
+* **Docker**: Orquestrando ambientes de desenvolvimento e produção com contêineres, garantindo a **portabilidade universal** e a consistência das aplicações.
+* **Google Cloud Platform (GCP)**: Pilotando serviços de nuvem para deploy, gerenciamento e escalonamento de aplicações globais, pavimentando o caminho para a **infraestrutura do amanhã**.
 
 ---
 
-### 🌐 Connect with me:
+### 🛠️ Meu Arsenal Tecnológico:
+
+Estas são as ferramentas e tecnologias que impulsionam minha exploração e criação:
+
+* **Linguagens**: Java, JavaScript, HTML5, CSS3, Python
+* **Controle de Versão**: Git, GitHub
+* **Contêineres**: Docker
+* **Plataformas Cloud**: Google Cloud Platform (GCP)
+
+---
+
+### 📡 Conecte-se à Minha Rede:
+
+Junte-se à minha jornada digital!
 
 <div align="left">
   <a href="https://www.instagram.com/dupe_mosh/#" target="_blank">
@@ -40,7 +46,7 @@ I'm a passionate student of technology and development, always eager to learn an
 
 ---
 
-### 📊 My GitHub Stats:
+### 📊 Meus Dados Digitais no GitHub:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omoshaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
