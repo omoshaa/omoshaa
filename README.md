@@ -255,7 +255,7 @@ _Programação • Oportunidades • Projetos colaborativos • Dicas de estudo_
   </a>
 </td>
 <td align="center">
-  <a href="https://discord.com/users/665952515790995468">
+  <a href="https://discord.com/users/dupe_mosh">
     <img src="https://img.shields.io/badge/Discord-Vamos%20Conversar!-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Discord"/>
   </a>
 </td>
