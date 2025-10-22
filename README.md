@@ -1,10 +1,10 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Moisés%20Filipe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Desenvolvimento%20%7C%20Jovem%20Padawan%20em%20Tech&descAlignY=55&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Moisés%20Filipe&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas%20%7C%20Jovem%20Padawan%20em%20Tech&descAlignY=60&descAlign=62&descSize=18" width="100%"/>
   
   <!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Olá%2C+Explorador(a)+Digital!;🌱+Aprendendo+e+crescendo+na+tech;🚀+Do+zero+ao+full+stack!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=700&height=120&lines=👋+Olá%2C+Explorador(a)+Digital!;🌱+Aprendendo+e+crescendo+na+tech;🚀+Do+zero+ao+desenvolvedor+full+stack!;💡+Transformando+curiosidade+em+código!" alt="Typing SVG" />
   
   <!-- Badges Section -->
   <p align="center">
@@ -36,7 +36,37 @@
 
 <div align="center">
   
-  <h3>� Jovem desenvolvedor em formação, apaixonado por <strong>tecnologia</strong> e <strong>aprendizado contínuo</strong></h3>
+  <h3>🌱 Jovem desenvolvedor em formação, apaixonado por <strong>tecnologia</strong> e <strong>aprendizado contínuo</strong></h3>
+  
+  <p>
+    <em>"Estudante dedicado explorando o universo do desenvolvimento full stack"</em><br>
+    <strong>Transformando curiosidade em código, um commit por vez!</strong> 🚀
+  </p>
+  
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+# 🌟 About Me | Sobre Mim
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default" alt="Quotes"/>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  <h3>🌱 Jovem desenvolvedor em formação, apaixonado por <strong>tecnologia</strong> e <strong>aprendizado contínuo</strong></h3>
   
   <p>
     <em>"Estudante dedicado explorando o universo do desenvolvimento full stack"</em><br>
@@ -230,8 +260,6 @@ console.log(jovemPadawan.getDreamJob());
   
 </div>
 
-</div>
-
 ---
 
 ## 🚀 Featured Projects | Projetos em Destaque
@@ -258,7 +286,7 @@ console.log(jovemPadawan.getDreamJob());
           <p><strong>15+ repositórios</strong> e crescendo!</p>
           <p>Do básico ao avançado, documentando minha jornada</p>
           <a href="https://github.com/omoshaa?tab=repositories">
-            <img src="https://img.shields.io/badge/View%20All%20Repositories-667eea?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
+            <img src="https://img.shields.io/badge/Ver%20Todos%20os%20Repositórios-667eea?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
           </a>
         </div>
       </td>
@@ -307,7 +335,7 @@ console.log(jovemPadawan.getDreamJob());
         <img src="https://img.shields.io/badge/Cloud-Exploring-FF9900?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud"/>
         <br><br>
         <a href="https://github.com/omoshaa?tab=repositories">
-          <img src="https://img.shields.io/badge/Todos%20Projetos-Explorar-667eea?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
+          <img src="https://img.shields.io/badge/Todos%20os%20Projetos-Explorar-667eea?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
         </a>
       </td>
     </tr>
@@ -318,7 +346,7 @@ console.log(jovemPadawan.getDreamJob());
 <!-- Latest Activity -->
 <div align="center">
   
-  ### ⚡ Latest Repository Activity
+  ### ⚡ Atividade Recente nos Repositórios
   
   [![Moisés's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omoshaa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=667eea&point=FFFFFF)](https://github.com/omoshaa)
   
@@ -426,7 +454,7 @@ console.log(jovemPadawan.getDreamJob());
 
 ---
 
-## � Currently Coding To
+## 🎵 Currently Coding To
 
 <div align="center">
   
@@ -505,7 +533,7 @@ console.log(jovemPadawan.getDreamJob());
   <!-- Call to Action -->
   <br>
   <a href="https://github.com/omoshaa?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Work-667eea?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Explore Work"/>
+    <img src="https://img.shields.io/badge/Explorar%20Meu%20Trabalho-667eea?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Explore Work"/>
   </a>
   <a href="mailto:moiseisfelipi@gmail.com?subject=Oportunidade%20de%20Aprendizado">
     <img src="https://img.shields.io/badge/Vamos%20Conversar!-764ba2?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117" alt="Let's Talk"/>
@@ -517,9 +545,9 @@ console.log(jovemPadawan.getDreamJob());
   
   <!-- Footer with Animation -->
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Obrigado%20pela%20visita!&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
   
-  **💫 Always learning, always growing, always coding!** 
+  **💫 Sempre aprendendo, sempre crescendo, sempre codificando!** 
   
   <img src="https://komarev.com/ghpvc/?username=omoshaa&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile views"/>
   
