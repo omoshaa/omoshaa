@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Moisés%20Filipe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Jovem%20Padawan%20em%20Tech&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- Animação de digitação moderna -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=120&lines=👋+Olá%2C+eu+sou+Moisés+Filipe!;🌱+Estudante+de+Desenvolvimento+de+Sistemas;🚀+Transformando+ideias+em+código;💡+Sempre+aprendendo+algo+novo;⚡+Backend+%26+Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👋+Olá%2C+eu+sou+Moisés+Filipe!;🌱+Estudante+de+Desenvolvimento;🚀+Transformando+ideias+em+código;💡+Sempre+aprendendo+algo+novo;⚡+Backend+%26+Full+Stack" alt="Typing SVG" />
 
 <!-- Badges animados -->
 <p align="center">
@@ -50,50 +50,68 @@ console.log(`${desenvolvedor.nome} está ${desenvolvedor.motivação}`);
 
 <div align="center">
 
-<!-- Ícones animados das tecnologias -->
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,spring,nodejs,react,nextjs&theme=dark&perline=4" alt="Tech Stack" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=git,docker,postgres,mysql,mongodb,gcp,aws,vscode&theme=dark&perline=4" alt="Tools" />
+### **🚀 Tecnologias que uso**
+
+<!-- Ícones das tecnologias principais -->
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,python,nodejs,react,nextjs" alt="Main Tech" />
+
+### **⚙️ Ferramentas & Infraestrutura**
+
+<img src="https://skillicons.dev/icons?i=git,docker,postgres,mysql,mongodb,gcp,aws,vscode" alt="Tools" />
 
 </div>
 
 <br>
 
-<!-- Tabela moderna com badges animados -->
-<table align="center">
+<!-- Grid moderno e limpo -->
+<div align="center">
+<table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
-### 🔥 **Backend**
+### � **Linguagens**
 
-![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Learning-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Basic-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![APIs](https://img.shields.io/badge/REST_APIs-Building-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-
-### 🎨 **Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-Studying-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-Exploring-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
-### 📊 **Data & Cloud**
+### � **Frameworks**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Learning-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Basic-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-Exploring-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Good-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### �️ **Banco de Dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+<td align="center">
+
+### ☁️ **Cloud & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 </td>
 </tr>
 </table>
+</div>
 
 <!-- Separador animado -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
