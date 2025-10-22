@@ -1,10 +1,10 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Moisés%20Filipe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Solutions%20Architect&descAlignY=55&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Moisés%20Filipe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Desenvolvimento%20%7C%20Jovem%20Padawan%20em%20Tech&descAlignY=55&descAlign=62" width="100%"/>
   
   <!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Olá%2C+Explorador(a)+Digital!;💡+Transformando+ideias+em+código;🚀+Construindo+o+futuro+da+tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Olá%2C+Explorador(a)+Digital!;🌱+Aprendendo+e+crescendo+na+tech;🚀+Do+zero+ao+full+stack!" alt="Typing SVG" />
   
   <!-- Badges Section -->
   <p align="center">
@@ -36,11 +36,11 @@
 
 <div align="center">
   
-  <h3>🎯 Desenvolvedor apaixonado por <strong>tecnologia de ponta</strong> e <strong>soluções inovadoras</strong></h3>
+  <h3>� Jovem desenvolvedor em formação, apaixonado por <strong>tecnologia</strong> e <strong>aprendizado contínuo</strong></h3>
   
   <p>
-    <em>"Especializado em arquiteturas escaláveis e infraestrutura moderna"</em><br>
-    <strong>Transformando ideias complexas em soluções elegantes</strong> 🚀
+    <em>"Estudante dedicado explorando o universo do desenvolvimento full stack"</em><br>
+    <strong>Transformando curiosidade em código, um commit por vez!</strong> 🚀
   </p>
   
 </div>
@@ -56,45 +56,61 @@ interface Developer {
   specialties: string[];
 }
 
-class MoisesFilipe implements Developer {
+class JovemPadawan implements Developer {
   name = "Moisés Filipe Telis de Lima";
   alias = "omoshaa";
   location = "Campinas, SP - Brasil 🇧🇷";
   education = "Colégio Técnico de Campinas - UNICAMP";
-  currentRole = "Full Stack Developer & Cloud Solutions Architect";
+  currentRole = "Estudante de Desenvolvimento de Sistemas";
+  level = "Jovem Padawan em Formação 🌱";
 
-  // Core Technologies
-  languages = ["Java", "JavaScript", "TypeScript", "Python", "SQL"];
-  frameworks = ["Spring Boot", "Node.js", "React", "Next.js"];
-  cloud = ["Google Cloud Platform", "AWS", "Docker", "Kubernetes"];
-  databases = ["Oracle", "PostgreSQL", "MySQL", "MongoDB"];
-  tools = ["Git", "Jenkins", "Robot Framework", "Maven", "Gradle"];
+  // Tecnologias que estou aprendendo
+  studyingLanguages = ["Java", "JavaScript", "Python", "SQL"];
+  exploringFrameworks = ["Spring Boot", "Node.js", "React"];
+  learningCloud = ["Docker", "Google Cloud Platform"];
+  databases = ["Oracle", "PostgreSQL", "MySQL"];
+  tools = ["Git", "VS Code", "IntelliJ", "Maven"];
 
-  // Current Focus
+  // Foco atual de estudos
   currentlyLearning = [
-    "Microservices Architecture",
-    "Container Orchestration",
-    "DevOps Best Practices",
-    "Cloud-Native Development",
+    "Fundamentos de Backend com Java",
+    "Desenvolvimento Frontend Moderno",
+    "Conceitos de Cloud Computing",
+    "Práticas de DevOps",
+    "Design Patterns e Clean Code",
   ];
 
-  // Expertise Areas
-  specialties = [
-    "Backend Development",
-    "Cloud Computing",
-    "System Architecture",
-    "DevOps & CI/CD",
-    "Database Design",
-    "API Development",
+  // Áreas de interesse
+  interests = [
+    "Full Stack Development",
+    "Backend Engineering",
+    "Cloud Technologies",
+    "Mobile Development",
+    "System Architecture (aspirante)",
+    "Open Source Contributions",
+  ];
+
+  // Objetivos
+  goals = [
+    "Dominar o stack Java + Spring Boot",
+    "Construir projetos full stack completos",
+    "Contribuir para projetos open source",
+    "Conseguir primeira oportunidade profissional",
+    "Nunca parar de aprender!",
   ];
 
   getMotivation(): string {
-    return "Cada linha de código é uma jornada para o futuro! ✨";
+    return "Cada linha de código é um passo na jornada de aprendizado! 🌱✨";
+  }
+
+  getDreamJob(): string {
+    return "Desenvolvedor Full Stack em uma empresa inovadora! 🚀";
   }
 }
 
-const developer = new MoisesFilipe();
-console.log(developer.getMotivation());
+const jovemPadawan = new JovemPadawan();
+console.log(jovemPadawan.getMotivation());
+console.log(jovemPadawan.getDreamJob());
 ```
 
 ---
@@ -111,32 +127,32 @@ console.log(developer.getMotivation());
 <tr>
 <td align="center" width="33%">
 
-**🔥 Backend Development**
+**🌱 Aprendendo Backend**
 
-- ⚡ Java + Spring Boot
-- 🚀 APIs RESTful
-- 📊 Microservices
-- 🔐 Security & Authentication
-
-</td>
-<td align="center" width="33%">
-
-**☁️ Cloud Computing**
-
-- 🌐 Google Cloud Platform
-- 🐳 Docker & Containerization
-- 📈 Auto Scaling
-- 🔄 CI/CD Pipelines
+- ☕ Java + Spring Boot (estudando)
+- 🚀 APIs RESTful (praticando)
+- 📊 Conceitos de Microservices
+- 🔐 Fundamentos de Segurança
 
 </td>
 <td align="center" width="33%">
 
-**💾 Database & DevOps**
+**☁️ Explorando Cloud**
 
-- 🗄️ Oracle & PostgreSQL
-- 🔧 Database Optimization
-- 🤖 Test Automation
-- 📊 Performance Monitoring
+- 🌐 Google Cloud Platform (iniciante)
+- 🐳 Docker (aprendendo)
+- 📈 Conceitos de Escalabilidade
+- 🔄 Introdução a CI/CD
+
+</td>
+<td align="center" width="33%">
+
+**💾 Estudando Dados**
+
+- 🗄️ Oracle & PostgreSQL (cursando)
+- 🔧 Fundamentos de BD
+- 🤖 Testes Automatizados (iniciando)
+- 📊 Monitoramento Básico
 
 </td>
 </tr>
@@ -206,9 +222,11 @@ console.log(developer.getMotivation());
 <!-- Learning Progress -->
 <div align="center">
   
-  ### 📚 Currently Learning & Focusing On
+  ### 📚 Jornada de Aprendizado - Coding Streak!
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omoshaa&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=667eea&fire=667eea&currStreakLabel=667eea" alt="Learning Streak"/>
+  
+  <p><em>"Mantendo a consistência nos estudos, um dia por vez! 🌱"</em></p>
   
 </div>
 
@@ -236,9 +254,9 @@ console.log(developer.getMotivation());
       </td>
       <td width="50%" align="center">
         <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white;">
-          <h3>🔍 Exploring My Repositories</h3>
-          <p><strong>15+ repositories</strong> and counting!</p>
-          <p>From backend systems to cloud solutions</p>
+          <h3>🔍 Meus Projetos de Estudo</h3>
+          <p><strong>15+ repositórios</strong> e crescendo!</p>
+          <p>Do básico ao avançado, documentando minha jornada</p>
           <a href="https://github.com/omoshaa?tab=repositories">
             <img src="https://img.shields.io/badge/View%20All%20Repositories-667eea?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
           </a>
@@ -257,39 +275,39 @@ console.log(developer.getMotivation());
   <table>
     <tr>
       <td align="center" width="33%">
-        <h4>🔥 Backend Systems</h4>
-        <img src="https://img.shields.io/badge/Spring%20Boot-Projects-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+        <h4>🌱 Projetos de Estudos Backend</h4>
+        <img src="https://img.shields.io/badge/Java-Learning-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
         <br>
-        <img src="https://img.shields.io/badge/RESTful%20APIs-Development-FF6B35?style=flat-square&logo=api&logoColor=white" alt="APIs"/>
+        <img src="https://img.shields.io/badge/Spring%20Boot-Practicing-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
         <br>
-        <img src="https://img.shields.io/badge/Microservices-Architecture-4285F4?style=flat-square&logo=kubernetes&logoColor=white" alt="Microservices"/>
+        <img src="https://img.shields.io/badge/REST%20APIs-Building-FF6B35?style=flat-square&logo=api&logoColor=white" alt="APIs"/>
         <br><br>
         <a href="https://github.com/omoshaa?tab=repositories&q=java&type=&language=java">
-          <img src="https://img.shields.io/badge/Java%20Projects-View-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Projects"/>
+          <img src="https://img.shields.io/badge/Projetos%20Java-Ver-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Projects"/>
         </a>
       </td>
       <td align="center" width="33%">
-        <h4>🎨 Frontend & Web</h4>
-        <img src="https://img.shields.io/badge/React-Applications-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <h4>🎨 Estudos Frontend</h4>
+        <img src="https://img.shields.io/badge/HTML5-Learning-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
         <br>
-        <img src="https://img.shields.io/badge/Responsive-Design-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
         <br>
-        <img src="https://img.shields.io/badge/Modern-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/JavaScript-Practicing-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
         <br><br>
         <a href="https://github.com/omoshaa?tab=repositories&q=javascript&type=&language=javascript">
-          <img src="https://img.shields.io/badge/Web%20Projects-View-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Web Projects"/>
+          <img src="https://img.shields.io/badge/Projetos%20Web-Ver-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Web Projects"/>
         </a>
       </td>
       <td align="center" width="33%">
-        <h4>☁️ Cloud & DevOps</h4>
-        <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <h4>☁️ Explorando DevOps</h4>
+        <img src="https://img.shields.io/badge/Git-Version%20Control-F1502F?style=flat-square&logo=git&logoColor=white" alt="Git"/>
         <br>
-        <img src="https://img.shields.io/badge/CI/CD-Pipelines-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD"/>
+        <img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
         <br>
-        <img src="https://img.shields.io/badge/Cloud-Deployment-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Cloud"/>
+        <img src="https://img.shields.io/badge/Cloud-Exploring-FF9900?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud"/>
         <br><br>
-        <a href="https://github.com/omoshaa?tab=repositories&q=docker&type=&language=">
-          <img src="https://img.shields.io/badge/DevOps%20Projects-View-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevOps Projects"/>
+        <a href="https://github.com/omoshaa?tab=repositories">
+          <img src="https://img.shields.io/badge/Todos%20Projetos-Explorar-667eea?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
         </a>
       </td>
     </tr>
@@ -370,22 +388,13 @@ console.log(developer.getMotivation());
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & GitHub Trophies
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=omoshaa&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=omoshaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omoshaa&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffeb95&area=true&hide_border=true" alt="Contribution Graph"/>
-
 </div>
 
 ---
@@ -398,127 +407,26 @@ console.log(developer.getMotivation());
 
 ---
 
-## 📡 Conecte-se Comigo
+## ⚡ Fun Facts About Me - Jovem Padawan Edition
 
 <div align="center">
-
-### **Vamos Construir o Futuro Juntos!** 🚀
-
-<a href="https://www.linkedin.com/in/mois%C3%A9s-filipe-telis-de-lima-568412297/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:moiseisfelipi@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.instagram.com/dupe_mosh/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://discord.com/users/665952515790995468" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-
-### **📊 Profile Statistics**
-
-<img src="https://img.shields.io/github/followers/omoshaa?label=Followers&style=social" alt="GitHub Followers"/>
-<img src="https://img.shields.io/github/stars/omoshaa?label=Stars&style=social" alt="GitHub Stars"/>
-
-</div>
-
----
-
-<!-- Quote Section -->
-<div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Cada%20linha%20de%20c%C3%B3digo%20%C3%A9%20uma%20jornada%20para%20o%20futuro&author=Mois%C3%A9s%20Filipe" alt="Quote"/>
-  
-</div>
-
-<!-- Inspirational Banner -->
-<div align="center">
-  
-  ### 🌟 **"Transformando ideias em código, código em soluções, soluções em impacto!"** 🌟
-  
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/💡-Ideas-FFE066?style=for-the-badge&labelColor=667eea" alt="Ideas"/>
-        <br><sub><b>Creative Thinking</b></sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/⚡-Code-66D9EF?style=for-the-badge&labelColor=667eea" alt="Code"/>
-        <br><sub><b>Clean Implementation</b></sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🚀-Impact-A6E22E?style=for-the-badge&labelColor=667eea" alt="Impact"/>
-        <br><sub><b>Real Solutions</b></sub>
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
-<!-- Fun Facts -->
-<div align="center">
-  
-  ### ⚡ Fun Facts About Me
   
   ```
-  🌱 Always learning something new in tech
-  🎯 Passionate about clean code and best practices  
-  ☕ Fueled by coffee and curiosity
-  🌍 Believer in technology for good
-  📚 Constantly exploring new frameworks and tools
-  💡 Love solving complex problems with simple solutions
+  🌱 Sempre aprendendo algo novo em programação
+  🎯 Apaixonado por código limpo e boas práticas (ainda aprendendo!)  
+  ☕ Movido a café, curiosidade e muitos tutoriais do YouTube
+  🌍 Acredito que tecnologia pode mudar o mundo
+  📚 Constantemente explorando novos frameworks e ferramentas
+  💡 Amo resolver problemas (mesmo que demorem horas para debugar!)
+  🎮 Gamer nas horas vagas - RPGs me ensinaram sobre persistência
+  📖 Leio documentações como se fossem histórias de aventura
   ```
   
 </div>
 
-<!-- Footer with Animation -->
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
-  
-  **💫 Always learning, always growing, always coding!** 
-  
-  <img src="https://komarev.com/ghpvc/?username=omoshaa&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile views"/>
-  
-</div>
-
 ---
 
-## 🏆 Achievements & Milestones
-
-<div align="center">
-  
-  <!-- GitHub Trophies with Custom Theme -->
-  <img src="https://github-profile-trophy.vercel.app/?username=omoshaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
-  
-</div>
-
-<!-- Real-time Metrics -->
-<div align="center">
-  
-  ### 📈 Real-time Metrics
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/github/followers/omoshaa?label=Followers&style=for-the-badge&color=667eea&labelColor=0D1117" alt="Followers"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/github/stars/omoshaa?label=Total%20Stars&style=for-the-badge&color=667eea&labelColor=0D1117" alt="Stars"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Repositories-15+-667eea?style=for-the-badge&labelColor=0D1117" alt="Repositories"/>
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
----
-
-## 🎵 Currently Playing
+## � Currently Coding To
 
 <div align="center">
   
@@ -529,15 +437,19 @@ console.log(developer.getMotivation());
 
 ---
 
-## 📫 Let's Connect & Build Together
+## 📫 Vamos Conectar & Crescer Juntos!
 
 <div align="center">
   
-  <h3>🚀 Ready to collaborate on something amazing?</h3>
+  <h3>🚀 Vamos estudar e crescer juntos?</h3>
   
   <p>
-    <em>I'm always open to interesting conversations and collaborative opportunities!</em><br>
-    Whether it's about <strong>backend architecture</strong>, <strong>cloud solutions</strong>, or the latest in <strong>tech trends</strong>
+    <em>Sempre aberto para conversas sobre programação e oportunidades de aprendizado!</em><br>
+    Seja sobre <strong>primeiros passos no backend</strong>, <strong>dicas de estudo</strong>, ou <strong>tendências em tech</strong>
+  </p>
+  
+  <p>
+    <strong>🎯 Procuro por:</strong> Mentoria, projetos colaborativos, estágios, primeira oportunidade profissional
   </p>
   
   <!-- Enhanced Social Links -->
@@ -568,13 +480,47 @@ console.log(developer.getMotivation());
     </tr>
   </table>
   
+  <!-- Inspirational Banner -->
+  <br>
+  
+  ### 🌟 **"Transformando ideias em código, código em soluções, soluções em impacto!"** 🌟
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/💡-Ideas-FFE066?style=for-the-badge&labelColor=667eea" alt="Ideas"/>
+        <br><sub><b>Creative Thinking</b></sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/⚡-Code-66D9EF?style=for-the-badge&labelColor=667eea" alt="Code"/>
+        <br><sub><b>Clean Implementation</b></sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🚀-Impact-A6E22E?style=for-the-badge&labelColor=667eea" alt="Impact"/>
+        <br><sub><b>Real Solutions</b></sub>
+      </td>
+    </tr>
+  </table>
+  
   <!-- Call to Action -->
   <br>
   <a href="https://github.com/omoshaa?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20My%20Work-667eea?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Explore Work"/>
   </a>
-  <a href="mailto:moiseisfelipi@gmail.com?subject=Collaboration%20Opportunity">
-    <img src="https://img.shields.io/badge/Start%20a%20Project-764ba2?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117" alt="Start Project"/>
+  <a href="mailto:moiseisfelipi@gmail.com?subject=Oportunidade%20de%20Aprendizado">
+    <img src="https://img.shields.io/badge/Vamos%20Conversar!-764ba2?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117" alt="Let's Talk"/>
   </a>
+  
+  <!-- Quote Section -->
+  <br><br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Cada%20linha%20de%20c%C3%B3digo%20%C3%A9%20uma%20jornada%20para%20o%20futuro&author=Mois%C3%A9s%20Filipe" alt="Quote"/>
+  
+  <!-- Footer with Animation -->
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
+  
+  **💫 Always learning, always growing, always coding!** 
+  
+  <img src="https://komarev.com/ghpvc/?username=omoshaa&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile views"/>
   
 </div>
