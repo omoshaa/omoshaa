@@ -243,14 +243,23 @@ _Programação • Oportunidades • Projetos colaborativos • Dicas de estudo_
 </tr>
 <tr>
 <td align="center">
+  <a href="https://omoshaa.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Veja%20Meus%20Projetos!-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
+  </a>
+</td>
+<td align="center">
   <a href="https://www.instagram.com/dupe_mosh/">
     <img src="https://img.shields.io/badge/Instagram-Acompanhe%20a%20Jornada!-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"/>
   </a>
 </td>
+</tr>
+<tr>
 <td align="center">
   <a href="https://discord.com/users/665952515790995468">
     <img src="https://img.shields.io/badge/Discord-Vamos%20Conversar!-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Discord"/>
   </a>
+</td>
+<td align="center">
 </td>
 </tr>
 </table>
