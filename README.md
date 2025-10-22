@@ -1,18 +1,18 @@
 <div align="center">
 
 <!-- Header animado com wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Moisés%20Filipe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Jovem%20Padawan%20em%20Tech&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Moisés%20Filipe&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Jovem%20Padawan%20em%20Tech&descAlignY=58&descSize=14" width="100%"/>
 
 <!-- Animação de digitação moderna -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=120&lines=👋+Olá%2C+eu+sou+Moisés+Filipe!;🌱+Estudante+de+Desenvolvimento+de+Sistemas;🚀+Transformando+ideias+em+código;💡+Sempre+aprendendo+algo+novo;⚡+Backend+e+Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=80&lines=👋+Olá%2C+eu+sou+Moisés+Filipe!;🌱+Estudante+de+Dev+de+Sistemas;🚀+Transformando+ideias+em+código;💡+Sempre+aprendendo;⚡+Backend+%26+Full+Stack" alt="Typing SVG" />
 
 <!-- Badges animados -->
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=omoshaa&label=Visitantes&color=6366f1&style=for-the-badge" alt="Visitors" />
   <img src="https://img.shields.io/github/followers/omoshaa?label=Seguidores&style=for-the-badge&color=6366f1&logo=github" alt="Followers" />
   <img src="https://img.shields.io/badge/Status-Codando-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/Foco-Backend-blue?style=for-the-badge&logo=java&logoColor=white" alt="Focus" />
-</p>
+</div>
 
 <!-- Linha animada separadora -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
