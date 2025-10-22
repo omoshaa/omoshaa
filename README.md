@@ -4,14 +4,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Moisés%20Filipe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Jovem%20Padawan%20em%20Tech&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- Animação de digitação moderna -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👋+Olá%2C+eu+sou+Moisés+Filipe!;🌱+Estudante+de+Desenvolvimento;🚀+Transformando+ideias+em+código;💡+Sempre+aprendendo+algo+novo;⚡+Backend+%26+Full+Stack" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=120&lines=👋+Olá%2C+eu+sou+Moisés+Filipe!;🌱+Estudante+de+Desenvolvimento+de+Sistemas;🚀+Transformando+ideias+em+código;💡+Sempre+aprendendo+algo+novo;⚡+Backend+e+Full+Stack+Developer" alt="Typing SVG" />
 
 <!-- Badges animados -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omoshaa&label=Visitantes&color=6366f1&style=for-the-badge" alt="Visitors" />
   <img src="https://img.shields.io/github/followers/omoshaa?label=Seguidores&style=for-the-badge&color=6366f1&logo=github" alt="Followers" />
   <img src="https://img.shields.io/badge/Status-Codando-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Backend-blue?style=for-the-badge&logo=java&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Foco-Backend-blue?style=for-the-badge&logo=java&logoColor=white" alt="Focus" />
 </p>
 
 <!-- Linha animada separadora -->
@@ -69,7 +69,7 @@ console.log(`${desenvolvedor.nome} está ${desenvolvedor.motivação}`);
 <tr>
 <td align="center" width="50%">
 
-### � **Linguagens**
+### 💻 **Linguagens**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -80,7 +80,7 @@ console.log(`${desenvolvedor.nome} está ${desenvolvedor.motivação}`);
 </td>
 <td align="center" width="50%">
 
-### � **Frameworks**
+### 🎯 **Frameworks**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -92,7 +92,7 @@ console.log(`${desenvolvedor.nome} está ${desenvolvedor.motivação}`);
 <tr>
 <td align="center">
 
-### �️ **Banco de Dados**
+### 🗄️ **Bancos de Dados**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -101,7 +101,7 @@ console.log(`${desenvolvedor.nome} está ${desenvolvedor.motivação}`);
 </td>
 <td align="center">
 
-### ☁️ **Cloud & DevOps**
+### ☁️ **Nuvem e DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -118,7 +118,7 @@ console.log(`${desenvolvedor.nome} está ${desenvolvedor.motivação}`);
 
 ---
 
-## � Projetos & Estudos
+## 🚀 Projetos & Estudos
 
 **Projetos de Aprendizado:**
 
@@ -137,7 +137,7 @@ console.log(`${desenvolvedor.nome} está ${desenvolvedor.motivação}`);
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 Estatísticas GitHub
 
 <div align="center">
 
@@ -190,7 +190,7 @@ graph LR
 
 ---
 
-## 🎯 Destaques & Conquistas
+## 🌟 Destaques & Conquistas
 
 <div align="center">
 
@@ -202,11 +202,11 @@ graph LR
   <br><sub>Consistência nos estudos</sub>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/🚀-Always%20Learning-informational?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🚀-Sempre%20Aprendendo-informational?style=for-the-badge&labelColor=0D1117" />
   <br><sub>Sempre evoluindo</sub>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/💡-Problem%20Solver-warning?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/💡-Solucionador%20de%20Problemas-warning?style=for-the-badge&labelColor=0D1117" />
   <br><sub>Adorando desafios</sub>
 </td>
 </tr>
@@ -232,24 +232,24 @@ _Programação • Oportunidades • Projetos colaborativos • Dicas de estudo_
 <tr>
 <td align="center">
   <a href="https://www.linkedin.com/in/moisés-filipe-telis-de-lima-568412297/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Vamos%20nos%20Conectar!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
   </a>
 </td>
 <td align="center">
   <a href="mailto:moiseisfelipi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Drop%20a%20Line!-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Mande%20uma%20Mensagem!-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
   </a>
 </td>
 </tr>
 <tr>
 <td align="center">
   <a href="https://www.instagram.com/dupe_mosh/">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Journey!-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-Acompanhe%20a%20Jornada!-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"/>
   </a>
 </td>
 <td align="center">
   <a href="https://discord.com/users/665952515790995468">
-    <img src="https://img.shields.io/badge/Discord-Let's%20Chat!-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-Vamos%20Conversar!-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Discord"/>
   </a>
 </td>
 </tr>
@@ -269,6 +269,6 @@ Mentoria • Projetos colaborativos • Estágios • Primeira oportunidade prof
 
 **💫 Sempre aprendendo, sempre crescendo, sempre codando!**
 
-<img src="https://komarev.com/ghpvc/?username=omoshaa&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=omoshaa&label=Visualizações%20do%20Perfil&color=6366f1&style=flat-square" alt="Profile views"/>
 
 </div>
