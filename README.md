@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Moisés%20Filipe&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Jovem%20Padawan%20em%20Tech&descAlignY=58&descSize=14" width="100%"/>
 
 <!-- Animação de digitação moderna -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=80&lines=👋+Olá%2C+eu+sou+Moisés+Filipe!;🌱+Estudante+de+Desenvolvimento+de+Sistemas.;🚀+Transformando+ideias+em+código.;💡+Sempre+aprendendo.;⚡+Backend+%26+Full+Stack" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=80&lines=👋+Olá%2C+eu+sou+Moisés+Filipe!;🌱+Estudante+de+Desenvolvimento+de+Sistemas;🚀+Transformando+ideias+em+código;💡+Sempre+aprendendo;⚡+Backend+%26+Full+Stack" alt="Typing SVG" />
 
 <!-- Badges animados -->
 <div align="center">
@@ -218,9 +218,6 @@ graph LR
 </td>
 </tr>
 </table>
-
-<!-- Snake animado comendo contribuições -->
-<img src="https://raw.githubusercontent.com/omoshaa/omoshaa/output/snake.svg" alt="Snake eating contributions" />
 
 </div>
 
