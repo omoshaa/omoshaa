@@ -220,18 +220,6 @@ Networking • Dicas de Estudo • Mentoria • Futuras Oportunidades • Projet
 
 ---
 
-## 🎯 Por que essa estrutura é estratégica?
-
-✅ **Gera Empatia e Respeito:** Tech recruiters respeitam muito disciplina e resiliência. Estar no Exército enquanto estuda mostra soft skills gigantescos.
-
-✅ **Backlog Estratégico:** Mostra que você tem visão arquitetural e sabe exatamente o que precisa construir e por quê.
-
-✅ **Realismo Temporal:** Não promete entregas em dias, mas mostra clareza de propósito mesmo com tempo escasso.
-
-✅ **Três Pilares Técnicos:** Os 3 projetos cobrem Backend, Microsserviços e Full Stack — tudo que o mercado procura.
-
----
-
 <!-- Footer animado -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Sempre%20Codando%2C%20Sempre%20Crescendo!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
