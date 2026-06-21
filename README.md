@@ -1,5 +1,3 @@
----
-
 ## 🧑‍💻 Sobre Mim
 
 ```js
@@ -28,9 +26,9 @@ console.log(`${desenvolvedor.nome}: aprendendo na prática, um commit por vez.`)
 
 ### ✅ O que eu já uso e pratico
 
-![Main Tech](https://skillicons.dev/icons?i=java,python,csharp,dotnet,js,html,css)
+![Main Tech](https://skillicons.dev/icons?i=java,py,cs,dotnet,js,html,css)
 
-![Tools](https://skillicons.dev/icons?i=git,docker,mysql,flutter)
+![Tools](https://skillicons.dev/icons?i=git,github,docker,mysql,flutter)
 
 - 💻 **Linguagens:** Java · Python · C# · JavaScript
 - ⚙️ **Plataformas/Frameworks:** .NET Framework · Flutter
@@ -49,10 +47,6 @@ Estou estudando Spring Boot, Node.js, React e fundamentos de arquitetura de APIs
 ## 🏗️ Projetos
 
 ### Em andamento / concluídos
-
-> 📌 Fixe aqui os repositórios reais que você já tem com código (mesmo simples).
-> Exemplo de formato:
-> - **[nome-do-projeto]** — o que faz, em 1 linha. Stack: Java, MySQL.
 
 ### 🔭 Próximos passos planejados
 
