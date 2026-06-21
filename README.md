@@ -1,7 +1,3 @@
-🇧🇷🇬🇧🇨🇳🇸🇪
-DS25 · Cotuca
-keep learning · keep building 💡
-
 ---
 
 ## 🧑‍💻 Sobre Mim
